@@ -10,6 +10,7 @@ const cartStore = configureStore({
         wishlistReducer : wishlistSlice,
         cartReducer : cartSlice
     }
+    
 })
 
 export default cartStore
